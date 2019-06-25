@@ -6,6 +6,7 @@ from sklearn.linear_model import LogisticRegression
 iris = load_iris()
 trainX = iris.data
 trainY = iris.target
+#测试
 
 
 clf = LogisticRegression(penalty='l2', dual=False, tol=1e-4, C=1.0,
