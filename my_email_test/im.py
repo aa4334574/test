@@ -2,7 +2,7 @@
 #首先需要导入两个文件
 import  matplotlib.pyplot as plt
 import  numpy as np
-#测试哇
+#测试哇11
 #==================================================================
 x = np.arange(-2*np.pi,2*np.pi,0.01)#定义横轴范围
 y = np.sin(3*x)/x#函数
